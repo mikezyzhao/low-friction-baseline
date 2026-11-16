@@ -16,7 +16,7 @@ It helps you screen out choices that carry high friction that cannot be removed,
 
 This system can take effect only if the decision-maker personally holds and exercises agency: who defines the baseline / who judges whether the path is smooth / who has the right to ignore outside noise / who has the right to start over when necessary.
 
-Agency is not an optional step of the system but the foundation for whether it can land. Without agency, the two questions below lose their real decision-maker and become idle judgments of self-persuasion, or judgments made on someone else's behalf.
+Agency is not an optional step of the system but the foundation for whether it can land. Without agency, the two questions below lose their real decision-maker and become empty judgments: either self-persuasion, or judgments made on someone else's behalf.
 
 ## Two core questions (must be asked separately, not mixed)
 
