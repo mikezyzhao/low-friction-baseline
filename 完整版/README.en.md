@@ -2,9 +2,9 @@
 
 [中文](README.md) | **English** | [日本語](README.ja.md)
 
-> This is a translation. If anything differs, the Chinese original ([README.md](README.md)) is authoritative. Translated from the Chinese version as of 2026-11-12.
+> This is a translation. If anything differs, the Chinese original ([README.md](README.md)) is authoritative. Translated from the Chinese version as of 2026-11-18.
 
-Last updated: 2026-11-12
+Last updated: 2026-11-18
 
 ## Definition
 
@@ -67,6 +67,16 @@ Baseline first, then low friction.
 - Baseline fails, or low friction has resistance that cannot be removed → stop the loss for things already started; rule out things not yet started.
 - Baseline passes, low friction fails, but a smoother path exists → do not keep adding commitment; change the path, or postpone.
 - Both pass → can do it, and prefer to push it forward in the lower-friction way.
+
+## When choosing one out of several things
+
+Run each thing through the complete flow above, then put the results in one table to compare:
+
+| Thing | Baseline | Low friction | Result |
+|---|---|---|---|
+| A | —— | —— | —— |
+| B | —— | —— | —— |
+| C | —— | —— | —— |
 
 ## Supporting tools (concept level)
 

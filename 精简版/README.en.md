@@ -2,7 +2,7 @@
 
 [中文](README.md) | **English** | [日本語](README.ja.md)
 
-> This is a translation. If anything differs, the Chinese original ([README.md](README.md)) is authoritative. Translated from the Chinese version as of 2026-11-12.
+> This is a translation. If anything differs, the Chinese original ([README.md](README.md)) is authoritative. Translated from the Chinese version as of 2026-11-18.
 
 A pre-decision filter for evaluating "choices that have not yet happened." It helps you screen out choices with high friction that cannot be removed and keep choices with lower friction, reducing wasted effort and lowering opportunity cost. You can tick off the items below one by one, in order.
 
@@ -25,6 +25,15 @@ Baseline first, then low friction:
 - Baseline fails, or low friction has resistance that cannot be removed → stop the loss for things already started; rule out things not yet started
 - Baseline passes, low friction fails, but a smoother path exists → do not add commitment; change the path, or postpone
 - Both pass → can do it, and prefer to push it forward in the lower-friction way
+
+**When choosing one out of several things**
+Run each thing through the complete flow above, then put the results in one table to compare:
+
+| Thing | Baseline | Low friction | Result |
+|---|---|---|---|
+| A | —— | —— | —— |
+| B | —— | —— | —— |
+| C | —— | —— | —— |
 
 **Key principle**
 Low friction: among the available paths, pick the one with the least friction and take it.
